@@ -3,7 +3,7 @@ entries:
   elasticsearch:
   - apiVersion: v1
     appVersion: 6.8.18
-    created: "2024-05-17T15:34:07.342508+02:00"
+    created: "2024-05-17T15:39:56.844386+02:00"
     description: Official Elastic helm chart for Elasticsearch
     digest: febfa0773410c1037ded22eabba47fff9a519dcbf3824e0a184e29038315d276
     home: https://github.com/elastic/helm-charts
@@ -15,6 +15,6 @@ entries:
     sources:
     - https://github.com/elastic/elasticsearch
     urls:
-    - https://github.com/evoila/es-68-helm-patched/charts/elasticsearch-6.8.18.tgz
+    - https://evoila.github.io/es-68-helm-patched/charts/elasticsearch-6.8.18.tgz
     version: 6.8.18
-generated: "2024-05-17T15:34:07.34082+02:00"
+generated: "2024-05-17T15:39:56.842699+02:00"
