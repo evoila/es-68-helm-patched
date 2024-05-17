@@ -8,3 +8,6 @@
 - push changes to git repo
 - helm repo add <repo-name> <github page url>/<path-to-charts-folder>
 - helm repo udpate <repo-name>
+
+## add helm repo:
+helm repo add evoila-es https://evoila.github.io/es-68-helm-patched/charts
